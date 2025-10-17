@@ -1,5 +1,5 @@
 # 💼 Musa's Portfolio
-Welcome to my data portfolio!
+Welcome to my data portfolio! Additional projects are in progress and will be added shortly. Stay tuned!
 
 ## 
 
